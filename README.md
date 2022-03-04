@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi There, I am Ana Maria Tozi 😃
-#### I am studying at <a href="https://betrybe.com" target="blank">Trybe</a> to become a full stack web developer in special "Turma XP". It's special because <a href="https://xpi.com.br" target="blank">XP Inc</a> is sponsoring this group.
-#### Trybe mixes hard skills with soft skills, and we learn something new every day.
-#### You can check some of my activities at <a href="https://br.linkedin.com/in/ana-maria-tozi/" target="_blank">Linkedin</a> (open in new tab so you don't leave this page 😃). 
+## Olá, eu sou a Ana Maria Tozi 😃
+#### Estou estudando desenvolvimento de software na <a href="https://betrybe.com" target="blank">Trybe</a> na "Turma XP", patrocinada pela <a href="https://xpi.com.br" target="blank">XP Inc</a> 
+#### Meu perfil no Linkedin: <a href="https://br.linkedin.com/in/ana-maria-tozi/" target="_blank">Linkedin</a> 
 <div align="center">
   <a href="https://github.com/AnaMariaTozi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaMariaTozi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
