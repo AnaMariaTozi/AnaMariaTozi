@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Olá, eu sou a Ana Maria Tozi 😃
 #### Estou estudando desenvolvimento de software na <a href="https://betrybe.com" target="blank">Trybe</a> na "Turma XP", patrocinada pela <a href="https://xpi.com.br" target="blank">XP Inc</a> 
-#### Meu perfil no Linkedin: <a href="https://br.linkedin.com/in/ana-maria-tozi/" target="_blank">Linkedin</a> 
+#### Meu perfil no <a href="https://br.linkedin.com/in/ana-maria-tozi/" target="_blank">Linkedin</a> 
 <div align="center">
   <a href="https://github.com/AnaMariaTozi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaMariaTozi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
