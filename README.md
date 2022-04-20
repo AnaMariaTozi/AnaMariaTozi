@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ## Olá, eu sou a Ana 😃
-#### Estou estudando desenvolvimento de software na <a href="https://betrybe.com" target="blank">Trybe</a> na "Turma XP", patrocinada pela <a href="https://xpi.com.br" target="blank">XP Inc</a> 
+#### Estou estudando desenvolvimento de software na <a href="https://betrybe.com" target="blank">Trybe</a> na Turma XP, patrocinada pela <a href="https://xpi.com.br" target="blank">XP Inc</a>. 
 #### Meu perfil no <a href="https://br.linkedin.com/in/ana-maria-tozi/" target="_blank">Linkedin</a> 
 <div align="center">
   <a href="https://github.com/AnaMariaTozi">
