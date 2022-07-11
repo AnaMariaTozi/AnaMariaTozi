@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me :
 - 🔭 I’m currently studying Software Development at Trybe
 - 🌱 I’m currently learning Node, Express, MySQL and tests with Sinon, Chai and Mocha
-- 💬 Ask me about books, TV shows, cats and Javascript
+- 💬 Ask me about books, TV shows, cats, food and drinks
 - 📫 How to reach me:  <a href = "mailto:anamariatozi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/ana-maria-tozi/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/anamtozi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
 ### :hammer_and_wrench: Languages and Tools :
