@@ -37,11 +37,11 @@
 
 <!--   ![snake gif](https://github.com/AnaMariaTozi/AnaMariaTozi/blob/output/github-contribution-grid-snake.gif) -->
 
-[![card](https://github-readme-stats.vercel.app/api?username=AnaMariaTozi&theme=Radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![AnaMariaTozi](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMariaTozi&hide=html&layout=compact=true&theme=Radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+![AnaMariaTozi](https://github-readme-stats.vercel.app/api?username=AnaMariaTozi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMariaTozi&hide=TeX&layout=compact)>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnaMariaTozi.AnaMariaTozi)
