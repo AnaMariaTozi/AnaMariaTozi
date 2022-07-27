@@ -1,15 +1,15 @@
 ## Hi, I'm Ana 😃
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 - 🔭 I’m currently studying Software Development at Trybe
-- 🌱 I’m currently learning Node, Express, Typescript and deploy
+- 🌱 I’m currently learning Node, Express, Typescript and deployment
 - 💬 Ask me about books, TV shows, cats, hikings, food and drinks
 - 📫 How to reach me: 
 <div> 
     <a href = "mailto:anamariatozi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/ana-maria-tozi/?originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/anamtozi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> 
 
-### 🦄 Hard Skills:
+## 🦄 Hard Skills:
 
 <div>
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
@@ -36,7 +36,7 @@
 </div>
 
 <!--   ![snake gif](https://github.com/AnaMariaTozi/AnaMariaTozi/blob/output/github-contribution-grid-snake.gif) -->
-
+##
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![AnaMariaTozi](https://github-readme-stats.vercel.app/api?username=AnaMariaTozi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
