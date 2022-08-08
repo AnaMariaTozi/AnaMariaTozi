@@ -38,7 +38,7 @@
 <!--   ![snake gif](https://github.com/AnaMariaTozi/AnaMariaTozi/blob/output/github-contribution-grid-snake.gif) -->
 ##
 
-<!-- ![AnaMariaTozi](https://github-readme-stats.vercel.app/api?username=AnaMariaTozi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+![AnaMariaTozi](https://github-readme-stats.vercel.app/api?username=AnaMariaTozi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
