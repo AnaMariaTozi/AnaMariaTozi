@@ -42,6 +42,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMariaTozi&hide=TeX&layout=compact)>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMariaTozi&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnaMariaTozi.AnaMariaTozi)
