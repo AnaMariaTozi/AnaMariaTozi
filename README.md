@@ -2,7 +2,7 @@
 
 ## :woman_technologist: About Me :
 - 🔭 I’m currently studying Software Development at Trybe
-- 🌱 I’m currently learning Node, Express, Typescript and deployment
+- 🌱 I’m currently learning Object Orientation to be able to write better and more reusable code
 - 💬 Ask me about books, TV shows, cats, hikings, food and drinks
 - 📫 How to reach me: 
 <div> 
