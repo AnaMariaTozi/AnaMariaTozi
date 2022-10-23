@@ -1,8 +1,8 @@
 ## Hi, I'm Ana 😃
 
 ## :woman_technologist: About Me :
-- 🔭 I’m currently studying Software Development at Trybe
-- 🌱 I’m currently learning Object Orientation to be able to write better and more reusable code
+- 🔭 I’m an iOS Developer ate Xp inc.
+- 🌱 I’m currently learning Object Orientation in C# to be able to write better and more reusable code
 - 💬 Ask me about books, TV shows, cats, hikings, food and drinks
 - 📫 How to reach me: 
 <div> 
