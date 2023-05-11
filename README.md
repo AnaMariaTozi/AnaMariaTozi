@@ -1,7 +1,7 @@
 ## Hi, I'm Ana 😃
 
 ## :woman_technologist: About Me :
-- 🔭 I’m an iOS Developer at Xp inc.
+- 🔭 I’m Software Engineer at Xp inc.
 - 🌱 I’m currently learning Swift and Flutter
 - 💬 Ask me about books, TV shows, cats, food and drinks
 - 📫 How to reach me: 
