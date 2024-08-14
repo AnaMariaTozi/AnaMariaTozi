@@ -12,6 +12,8 @@
 ## 🦄 Hard Skills:
 
 <div>
+    
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,11 +30,9 @@
 
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <!--   ![snake gif](https://github.com/AnaMariaTozi/AnaMariaTozi/blob/output/github-contribution-grid-snake.gif) -->
